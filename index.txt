@@ -1,1 +1,2 @@
 test text
+it's a new string in the text: bla-bla-bla
